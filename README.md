@@ -30,6 +30,12 @@ Grupo de número <b>7</b> formado pelos integrantes mencionados abaixo.
 
 <b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=474700&c=12936
 
+## Entrega 1
+
+<i>Pendente...</i>
+
+## Entrega 2
+
 <i>Pendente...</i>
 
 ## 📁 Estrutura de pastas
