@@ -28,7 +28,7 @@ Grupo de número <b>4</b> formado pelos integrantes mencionados abaixo.
 
 ## 📜 Descrição
 
-<b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=475221&c=12936
+<b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=474700&c=12936
 
 <i>Pendente...</i>
 
