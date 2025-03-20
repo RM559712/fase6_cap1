@@ -6,7 +6,7 @@
 
 <br>
 
-# Enterprise Challenge - Sprint 2 - Ingredion
+# Cap 1 - Despertar da rede neural
 
 ## 👨‍👩 Grupo
 
