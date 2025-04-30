@@ -35,7 +35,7 @@ Grupo de número <b>7</b> formado pelos integrantes mencionados abaixo.
 > Projeto comparativo entre os modelos YOLOv5, YOLOv8 e CNN sequencial usando diferentes durações de treinamento (60 e 80 épocas) para tarefas de detecção de objetos poderá ser encontrado em:
 https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
-> 
+> Para visualizar a execução utilizando o modelo CNN, basta [clicar aqui](https://github.com/RM559712/fase6_cap1?tab=readme-ov-file#-como-executar-o-c%C3%B3digo).
 
 ---
 
