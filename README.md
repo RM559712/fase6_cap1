@@ -35,6 +35,7 @@ Grupo de número <b>7</b> formado pelos integrantes mencionados abaixo.
 > Projeto comparativo entre os modelos YOLOv5, YOLOv8 e CNN sequencial usando diferentes durações de treinamento (60 e 80 épocas) para tarefas de detecção de objetos poderá ser encontrado em:
 https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
+> 
 
 ---
 
@@ -98,8 +99,6 @@ Para melhores resultados de precisão, o YOLOv8 com 80 épocas é a melhor escol
 ### Notas sobre o grupo:
 
 O grupo encontrou dificuldades técnicas para correr a CNN en colab, e devido a falta de energia que afetou a Espanha, o presente projeto teve de ser remodelado e perdeu seu formato inicial com epócas de 40, 60, 80 para todos os modelos testados. Algumas imagens do dataset foram alteradas, pois nao eram aceitas no teste com os YOLOs ou nao eram "vistas" pelo python no colab. Foram checados os formatos e também se as imagens estavam corrompidas, porém pareciam realmente normais e iguais a todas as outras imagens.
-
-Enyd Bentivoglio, Rodrigo Mazuco, Ciro de Camargo, Marco Antonio Franzoi
 
 ## 📁 Estrutura de pastas
 
