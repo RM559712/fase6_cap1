@@ -30,7 +30,7 @@ Grupo de número <b>7</b> formado pelos integrantes mencionados abaixo.
 
 <b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=474700&c=12936
 
-## Comparação de Modelos YOLOv5 e YOLOv8 e CNN sequencial para Detecção de Objetos
+# Comparação de Modelos YOLOv5 e YOLOv8 e CNN sequencial para Detecção de Objetos
 
 > Projeto comparativo entre os modelos YOLOv5, YOLOv8 e CNN sequencial usando diferentes durações de treinamento (60 e 80 épocas) para tarefas de detecção de objetos poderá ser encontrado em:
 https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
@@ -38,7 +38,7 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
 ---
 
-## Modelos Avaliados
+# Modelos Avaliados
 
 - YOLOv5 – 60 épocas
 - YOLOv5 – 80 épocas
@@ -49,7 +49,7 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
 ---
 
-##  Facilidade de Uso e Integração
+#  Facilidade de Uso e Integração
 
 - YOLOv5: Estrutura modular, fácil de customizar, excelente documentação.
 - YOLOv8: Setup simplificado com comando único, integração com Ultralytics.
@@ -57,9 +57,9 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
 ---
 
-## Resultados e Métricas
+# Resultados e Métricas
 
-## Precisão (mAP@0.5)
+# Precisão (mAP@0.5)
 
 | Modelo           | mAP@0.5 / Accuracy |
 |------------------|--------------------|
@@ -70,7 +70,7 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 | CNN (60 ep)      | 88.89%             |
 | CNN (80 ep)      | 69.99%             |
 
-## Tempo de Treinamento
+# Tempo de Treinamento
 
 | Modelo         | Total estimado |
 |----------------|----------------|
@@ -81,7 +81,7 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 | CNN (60 ep)    | <1 minuto      |
 | CNN (80 ep)    | <1 minuto      |
 
-## Tempo de Inferência
+# Tempo de Inferência
 
 | Modelo            | Tempo Médio por Imagem |
 |------------------ |------------------------|
@@ -91,11 +91,11 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
 ---
 
-## Conclusão Geral
+# Conclusão Geral
 
 Para melhores resultados de precisão, o YOLOv8 com 80 épocas é a melhor escolha. Se o objetivo for leveza, o YOLOv5 leva vantagem em qualquer uma das épocas testadas. Mas o modelo mai rápido de todos e que se destacou por evitar o overfitting, parando o treinamento antes do esperado, foi a CNN sequencial.
 
-## Notas sobre o grupo:
+# Notas sobre o grupo:
 
 O grupo encontrou dificuldades técnicas para correr a CNN en colab, e devido a falta de energia que afetou a Espanha, o presente projeto teve de ser remodelado e perdeu seu formato inicial com epócas de 40, 60, 80 para todos os modelos testados. Algumas imagens do dataset foram alteradas, pois nao eram aceitas no teste com os YOLOs ou nao eram "vistas" pelo python no colab. Foram checados os formatos e também se as imagens estavam corrompidas, porém pareciam realmente normais e iguais a todas as outras imagens.
 
