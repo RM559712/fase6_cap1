@@ -94,13 +94,13 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
 ### Resultados
 
-Os resultados utilizando o modelo Yolov5 com 60 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov560epocas.csv).
+Os resultados utilizando o modelo YOLOv5 com 60 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov560epocas.csv).
 
-Os resultados utilizando o modelo Yolov5 com 80 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov580epocas.csv).
+Os resultados utilizando o modelo YOLOv5 com 80 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov580epocas.csv).
 
-Os resultados utilizando o modelo Yolov8 com 60 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov860epocas.csv).
+Os resultados utilizando o modelo YOLOv8 com 60 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov860epocas.csv).
 
-Os resultados utilizando o modelo Yolov8 com 80 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov880epocas.csv).
+Os resultados utilizando o modelo YOLOv8 com 80 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov880epocas.csv).
 
 ### Conclusão Geral
 
@@ -108,7 +108,7 @@ Para melhores resultados de precisão, o YOLOv8 com 80 épocas é a melhor escol
 
 ### Notas sobre o grupo:
 
-O grupo encontrou dificuldades técnicas para correr a CNN en colab, e devido a falta de energia que afetou a Espanha, o presente projeto teve de ser remodelado e perdeu seu formato inicial com epócas de 40, 60, 80 para todos os modelos testados. Algumas imagens do dataset foram alteradas, pois nao eram aceitas no teste com os YOLOs ou nao eram "vistas" pelo python no colab. Foram checados os formatos e também se as imagens estavam corrompidas, porém pareciam realmente normais e iguais a todas as outras imagens.
+O grupo encontrou dificuldades técnicas para executar o modelo CNN no Google Colab, e devido a falta de energia que afetou a Espanha, o presente projeto teve de ser remodelado e perdeu seu formato inicial com epócas de 40, 60, 80 para todos os modelos testados. Algumas imagens do dataset foram alteradas, pois nao eram aceitas no teste com os YOLOs ou nao eram "vistas" pelo python no colab. Foram checados os formatos e também se as imagens estavam corrompidas, porém pareciam realmente normais e iguais a todas as outras imagens.
 
 ## 📁 Estrutura de pastas
 
