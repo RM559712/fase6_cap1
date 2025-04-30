@@ -92,6 +92,16 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
 ---
 
+### Arquivos
+
+Os resultados utilizando o modelo Yolov5 com 60 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase5_cap1/blob/main/document/resultsYolov560epocas.csv).
+
+Os resultados utilizando o modelo Yolov5 com 80 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase5_cap1/blob/main/document/resultsYolov580epocas.csv).
+
+Os resultados utilizando o modelo Yolov8 com 60 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase5_cap1/blob/main/document/resultsYolov860epocas.csv).
+
+Os resultados utilizando o modelo Yolov8 com 80 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase5_cap1/blob/main/document/resultsYolov880epocas.csv).
+
 ### Conclusão Geral
 
 Para melhores resultados de precisão, o YOLOv8 com 80 épocas é a melhor escolha. Se o objetivo for leveza, o YOLOv5 leva vantagem em qualquer uma das épocas testadas. Mas o modelo mai rápido de todos e que se destacou por evitar o overfitting, parando o treinamento antes do esperado, foi a CNN sequencial.
