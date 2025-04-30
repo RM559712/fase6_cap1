@@ -92,7 +92,7 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
 ---
 
-### Arquivos
+### Resultados
 
 Os resultados utilizando o modelo Yolov5 com 60 épocas podem ser visualizado [clicando aqui](https://github.com/RM559712/fase6_cap1/blob/main/document/resultsYolov560epocas.csv).
 
