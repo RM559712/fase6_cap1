@@ -43,14 +43,14 @@ Para visualizar a execução utilizando o modelo CNN, basta [clicar aqui](https:
 - YOLOv5 – 80 épocas
 - YOLOv8 – 60 épocas
 - YOLOv8 – 80 épocas
--  CNN Sequencial - 60 épocas  
--  CNN Sequencial - 80 épocas
+- CNN Sequencial - 60 épocas  
+- CNN Sequencial - 80 épocas
 
 ###  Facilidade de Uso e Integração
 
-- YOLOv5: Estrutura modular, fácil de customizar, excelente documentação.
-- YOLOv8: Setup simplificado com comando único, integração com Ultralytics.
-- CNN: Implementação simples ótima para prototipação.
+- YOLOv5: Estrutura modular, fácil de customizar, excelente documentação
+- YOLOv8: Setup simplificado com comando único, integração com Ultralytics
+- CNN: Implementação simples e ótima para prototipação
 
 ### Resultados e Métricas
 
@@ -96,7 +96,7 @@ Os resultados utilizando o modelo YOLOv8 com 80 épocas podem ser visualizados [
 
 ### Conclusão Geral
 
-Para melhores resultados de precisão, o YOLOv8 com 80 épocas é a melhor escolha. Se o objetivo for leveza, o YOLOv5 leva vantagem em qualquer uma das épocas testadas. Mas o modelo mai rápido de todos e que se destacou por evitar o overfitting, parando o treinamento antes do esperado, foi a CNN sequencial.
+Para melhores resultados de precisão, o YOLOv8 com 80 épocas é a melhor escolha. Se o objetivo for leveza, o YOLOv5 leva vantagem em qualquer uma das épocas testadas. Mas o modelo mais rápido de todos e que se destacou por evitar o overfitting, parando o treinamento antes do esperado, foi a CNN sequencial.
 
 ### Notas sobre o grupo:
 
