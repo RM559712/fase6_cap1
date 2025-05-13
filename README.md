@@ -54,7 +54,7 @@ Para visualizar a execução utilizando o modelo CNN, basta [clicar aqui](https:
 
 ### Resultados e Métricas
 
-### Precisão (mAP@0.5)
+#### Precisão (mAP@0.5)
 
 | Modelo           | mAP@0.5 / Accuracy |
 |------------------|--------------------|
@@ -65,7 +65,7 @@ Para visualizar a execução utilizando o modelo CNN, basta [clicar aqui](https:
 | CNN (60 ep)      | 88.89%             |
 | CNN (80 ep)      | 69.99%             |
 
-### Tempo de Treinamento
+#### Tempo de Treinamento
 
 | Modelo         | Total estimado |
 |----------------|----------------|
@@ -76,7 +76,7 @@ Para visualizar a execução utilizando o modelo CNN, basta [clicar aqui](https:
 | CNN (60 ep)    | <1 minuto      |
 | CNN (80 ep)    | <1 minuto      |
 
-### Tempo de Inferência
+#### Tempo de Inferência
 
 | Modelo            | Tempo Médio por Imagem |
 |------------------ |------------------------|
