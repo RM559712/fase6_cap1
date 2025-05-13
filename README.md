@@ -32,12 +32,10 @@ Grupo de número <b>7</b> formado pelos integrantes mencionados abaixo.
 
 ### Comparação de Modelos YOLOv5 e YOLOv8 e CNN sequencial para Detecção de Objetos
 
-> Projeto comparativo entre os modelos YOLOv5, YOLOv8 e CNN sequencial usando diferentes durações de treinamento (60 e 80 épocas) para tarefas de detecção de objetos poderá ser encontrado em:
+Projeto comparativo entre os modelos YOLOv5, YOLOv8 e CNN sequencial usando diferentes durações de treinamento (60 e 80 épocas) para tarefas de detecção de objetos, que poderá ser encontrado em:
 https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 
-> Para visualizar a execução utilizando o modelo CNN, basta [clicar aqui](https://github.com/RM559712/fase6_cap1?tab=readme-ov-file#-como-executar-o-c%C3%B3digo).
-
----
+Para visualizar a execução utilizando o modelo CNN, basta [clicar aqui](https://github.com/RM559712/fase6_cap1?tab=readme-ov-file#-como-executar-o-c%C3%B3digo).
 
 ### Modelos Avaliados
 
@@ -48,15 +46,11 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 -  CNN Sequencial - 60 épocas  
 -  CNN Sequencial - 80 épocas
 
----
-
 ###  Facilidade de Uso e Integração
 
 - YOLOv5: Estrutura modular, fácil de customizar, excelente documentação.
 - YOLOv8: Setup simplificado com comando único, integração com Ultralytics.
-- CNN: implementação simples ótima para prototipação.
-
----
+- CNN: Implementação simples ótima para prototipação.
 
 ### Resultados e Métricas
 
@@ -89,8 +83,6 @@ https://colab.research.google.com/drive/1AVIM5W9nBpiN6O0Yo3raY6aib2NIZjVR
 | YOLOv5 (60/80 ep) | ~15–25 ms              |
 | YOLOv8 (60/80 ep) | ~20–35 ms              |
 | CNN (ambos)       | ~1–5 ms                |
-
----
 
 ### Resultados
 
